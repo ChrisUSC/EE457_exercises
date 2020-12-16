@@ -1,0 +1,5 @@
+Christopher Pack
+Yuting Gao
+
+(This is the submission for Christopher Pack, my partner is still checking her state diagrams, 
+so any differences in state diagrams are because of changes made between now 8pm and when she turns hers in.)
